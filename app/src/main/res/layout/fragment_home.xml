@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pinkbg"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="200dp"
+        android:layout_height="180dp"
+        android:layout_marginLeft="60dp"
+        android:src="@drawable/logosnapcopycopy"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MemorySnap application is collecting
+photographers in one stage. That will give
+customers various chances to book the
+best photographer due to their occasions."
+        android:textAlignment="center"
+        android:textColor="#0a1743"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Team Members"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ahd Al-Zakwni
+Asma Al-Riyami
+Hajer Al-Azri"
+        android:layout_marginTop="9dp"
+        android:textAlignment="center"
+        android:textColor="#0a1743"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Information"
+        android:layout_marginTop="40dp"
+        android:textAlignment="center"
+        android:textColor="#FFAC3B8C"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="115dp"
+            android:layout_marginTop="10dp"
+            app:srcCompat="@drawable/phone"
+            tools:ignore="VectorDrawableCompat" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            app:srcCompat="@drawable/insta" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            app:srcCompat="@drawable/ic_mail_outline_black_24dp"
+            tools:ignore="VectorDrawableCompat" />
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            app:srcCompat="@drawable/twitter" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

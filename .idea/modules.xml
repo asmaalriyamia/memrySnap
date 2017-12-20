@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sasmob\Downloads\projectSnapFinal1-master-master\projectSnapFinal1-master-master\app\app.iml" filepath="C:\Users\sasmob\Downloads\projectSnapFinal1-master-master\projectSnapFinal1-master-master\app\app.iml" />
+      <module fileurl="file://C:\Users\sasmob\Downloads\projectSnapFinal1-master-master\projectSnapFinal1-master-master\project.iml" filepath="C:\Users\sasmob\Downloads\projectSnapFinal1-master-master\projectSnapFinal1-master-master\project.iml" />
+      <module fileurl="file://C:\Users\sasmob\Downloads\projectSnapFinal1-master-master\projectSnapFinal1-master-master\projectSnap-master.iml" filepath="C:\Users\sasmob\Downloads\projectSnapFinal1-master-master\projectSnapFinal1-master-master\projectSnap-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectSnapFinal1-master-master.iml" filepath="$PROJECT_DIR$/projectSnapFinal1-master-master.iml" />
+    </modules>
+  </component>
+</project>
